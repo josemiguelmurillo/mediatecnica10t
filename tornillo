@@ -1,0 +1,31 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+  static void Main() {
+  //variable
+  int valortornillo;
+  int cantidadTornillo;
+  
+  //variable
+  Console.WriteLine("digite numero de tornillos :");
+  CantidadTornillos = Int32.Parse(Console.ReadLine());
+  valorTornillo = 300;
+  
+  //variable
+  if (CantidadTornillos >=1 ){
+      if (CantidadTornillos >=5 ){
+          if (CantidadTornillos >=10){
+               Console.WriteLine("cantidad de tornillos a pagar es:" + (valortornillos = 0));
+                Console.WriteLine("cantidad de tornillos a pagar es:" + (valortornillos = 0.3));
+                 Console.WriteLine("cantidad de tornillos a pagar es:" + (valortornillos = 0.5));
+          }
+      }
+  }
+  
